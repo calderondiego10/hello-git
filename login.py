@@ -1,1 +1,1 @@
-print("Bienvenido a tu tienda preferida, inicia sesion o registrate v2")
+print("Bienvenido a tu tienda preferida, inicia sesion o registrate v3")
